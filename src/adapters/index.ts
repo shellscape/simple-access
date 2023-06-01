@@ -1,2 +1,2 @@
-export * from './baseAdapter';
-export * from './memoryAdapter';
+export * from './BaseAdapter';
+export * from './MemoryAdapter';

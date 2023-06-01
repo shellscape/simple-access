@@ -1,2 +1,2 @@
-export * from "../simpleAccess";
-export * from "./utils";
+export * from '../SimpleAccess';
+export * from './utils';

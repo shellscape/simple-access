@@ -1,3 +1,3 @@
-export * from "./simpleAccess";
-export * from "./adapters";
-export * from "./types";
+export * from './SimpleAccess';
+export * from './adapters';
+export * from './types';
